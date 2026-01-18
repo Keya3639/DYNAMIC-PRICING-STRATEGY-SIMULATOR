@@ -103,4 +103,8 @@ By transforming demand and supply signals into transparent, data-driven pricing 
 With future improvements, it can evolve into a robust pricing intelligence platform.
 
 ## Output
+<img width="687" height="772" alt="Image" src="https://github.com/user-attachments/assets/f1464943-4a9e-46c1-9098-58553b5ac0a9" />
 
+<img width="720" height="773" alt="Image" src="https://github.com/user-attachments/assets/8e3d50ce-0465-49ff-b16d-446ff06a1dfa" />
+
+<img width="693" height="778" alt="Image" src="https://github.com/user-attachments/assets/e85aae96-c296-4455-9ff5-e91e057894cb" />
